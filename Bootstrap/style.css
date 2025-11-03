@@ -1,0 +1,17 @@
+.topbar {
+  height: 90px;
+  background: #b788bf;
+  color: #fff;
+}
+.sidebar {
+  background: #f5dcdc;
+  border-radius: .25rem;
+}
+.caja-azul {
+  height: 170px;
+  background: #7fa7db;
+}
+.carousel-item img {
+    max-height: 170px;
+    object-fit: cover;
+}
